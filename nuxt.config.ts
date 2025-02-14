@@ -25,6 +25,6 @@ export default defineNuxtConfig({
     viewer: true,
   },
   image: {
-    dir: 'src/assets/images',
+    dir: 'assets/images',
   },
 })
