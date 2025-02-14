@@ -1,6 +1,6 @@
 <template>
   <Menu />
-  <div class="mx-auto bg-[#ffc0cb] hp-height flex flex-col justify-around">
+  <div class="bg-[#ffc0cb] hp-height flex flex-col justify-around">
     <slot />
   </div>
 </template>

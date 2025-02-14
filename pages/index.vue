@@ -4,16 +4,16 @@
       <NuxtImg
         src="/main-img.png"
         alt="Main image"
-        class="w-[600px] h-[600px]"
+        class="w-[250px] h-[250px] lg:w-[600px] lg:h-[600px]"
       />
     </div>
     <section class="text-center">
-      <div class="font-bold text-4xl">Kateřina Herda</div>
-      <div class="font-semi text-2xl">Frontend developer</div>
+      <h1 class="font-bold text-4xl">Kateřina Herda</h1>
+      <h2 class="font-semi text-2xl">Frontend developer</h2>
     </section>
   </div>
-  <section class="">
-    <div class="w-3/4 flex justify-between m-auto">
+  <section class="md:w-3/4 lg:w-1/2 mx-auto">
+    <div class="flex justify-between m-auto">
       <BigButton to="https://github.com/Katerina8888/">GitHub</BigButton>
       <BigButton to="https://www.linkedin.com/in/kate%C5%99ina-herda-29657b10a/"
         >LinkedIn</BigButton
