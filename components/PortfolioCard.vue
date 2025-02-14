@@ -1,7 +1,7 @@
 <template>
   <div class="lg:w-1/2 flex justify-center m-auto">
     <div
-      class="lg:w-2/3 m-2 lg:m-8 border border-blue-100 bg-white p-8 hover:shadow-xl transform-all duration-300 cursor-pointer"
+      class="lg:w-[583px] lg:h-[482px] m-2 lg:m-8 border border-blue-100 bg-white p-8 hover:shadow-xl transform-all duration-300 cursor-pointer"
     >
       <h1 class="text-3xl pb-4 md:pb-8">{{ heading }}</h1>
       <p class="pb-4 md:pb-8">
