@@ -9,9 +9,3 @@ body {
   font-style: normal;
   background-color: pink;
 }
-
-@layer components {
-  body {
-    /* @apply bg-pink-200; */
-  }
-}
